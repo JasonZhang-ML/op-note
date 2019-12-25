@@ -13,7 +13,7 @@
 1. 序
     1. [导读](https://shanyue.tech/op/introduction.html)
     1. [序·当我有一台服务器时我做了什么](https://shanyue.tech/op/when-server.html)
-    1. [序·当我有一台服务器时我做了什么(2019)]() - TODO
+    1. [序·当我有一台服务器时我做了什么(2019)](https://shanyue.tech/op/when-server-2019.html)
     1. [序·个人服务器应用开发架构推荐]() - TODO
 1. 如果你只想搭建博客
     1. [如果你只想搭一个博客](https://shanyue.tech/op/if-you-want-a-blog.html)
@@ -44,6 +44,7 @@
     1. [使用 postgres 与 redis 做数据存储服务]() - TODO
     1. [使用 sentry 做异常监控](https://shanyue.tech/op/deploy-sentry.html)
     1. [案例：一个 Node 应用的持续集成与部署实践]() - TODO
+    1. [案例：黑客增长 - 从博客向公众号引流](https://shanyue.tech/op/blog-to-wechat.html)
 1. 使用 kubernetes 编排容器
     1. [搭建一个 k8s 集群](https://github.com/shfshanyue/learn-k8s)
     1. [部署你的第一个应用: Pod ，Deployment，Service](https://github.com/shfshanyue/learn-k8s/blob/master/pod.md)
